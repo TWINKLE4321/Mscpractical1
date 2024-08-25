@@ -6,5 +6,5 @@ def check_odd_even(number):
 
 # Example usage
 num = int(input("enter number: "))
-result = check_odd_even(num)
-print(result)
+output = check_odd_even(num)
+print(output)

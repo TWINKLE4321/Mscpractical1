@@ -5,6 +5,6 @@ def check_odd_even(number):
         return f"{number} is odd."
 
 # Example usage
-num = int(input("Enter a number: "))
+num = int(input("enter number: "))
 result = check_odd_even(num)
 print(result)
